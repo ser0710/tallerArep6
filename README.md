@@ -73,21 +73,6 @@ version 1.0
 
 Sergio Andres Rozo Pulido
 
-### Lab 6
-
-## parte 1
-
-![image](https://user-images.githubusercontent.com/90010904/224424706-eef33817-aaa6-474f-aeff-9510aef524b3.png)
-
-![image](https://user-images.githubusercontent.com/90010904/224424741-9be69bf7-abea-4e9b-af49-1c71e408734c.png)
-
-![image](https://user-images.githubusercontent.com/90010904/224424778-ce6bde77-fd88-4206-a01f-c48ed7b79db8.png)
-
-![image](https://user-images.githubusercontent.com/90010904/224424820-a672e4c1-3d85-4576-b47c-07a67a48e518.png)
-
-![image](https://user-images.githubusercontent.com/90010904/224424872-f0647606-a4a6-4281-a60d-942e28e75c79.png)
-
-![image](https://user-images.githubusercontent.com/90010904/224424913-3f783cc1-d1d2-4e60-ab08-5a19cb2ff24e.png)
 
 
 
